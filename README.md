@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gambozo&layout=compact&theme=radical" />
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gambozo&theme=radical" />
 </p>
