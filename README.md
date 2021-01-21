@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gambozo&theme=radical" /> <img src="https://github-readme-stats.vercel.app/api?username=Gambozo&count_private=true&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Gambozo&theme=radical&langs_count=3" /> <img src="https://github-readme-stats.vercel.app/api?username=Gambozo&count_private=true&show_icons=true&theme=radical">
